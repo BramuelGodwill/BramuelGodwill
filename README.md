@@ -39,8 +39,3 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
 </p>
-
-GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BramuelGodwill&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BramuelGodwill&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BramuelGodwill&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
